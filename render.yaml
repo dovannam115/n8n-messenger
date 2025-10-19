@@ -11,6 +11,7 @@ services:
       - key: N8N_BASIC_AUTH_PASSWORD
         value: "1234"
       - key: WEBHOOK_URL
-        value: "https://n8n-namdv.onrender.com"
+        value: "https://n8n-messenger.onrender.com"
       - key: GENERIC_TIMEZONE
+
         value: "Asia/Ho_Chi_Minh"
